@@ -1,0 +1,15 @@
+body {
+    background-color:cornsilk;
+}
+h2 {
+    font-size: 40px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    border-bottom: solid 2px black;
+}
+legend {
+    font-size:25px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    border-bottom: dashed 2px black;
+}
